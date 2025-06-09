@@ -1,0 +1,7 @@
+C:\Users\travi\source\repos\SingleLinkedListProject\bin\Debug\SingleLinkedListProject.exe.config
+C:\Users\travi\source\repos\SingleLinkedListProject\bin\Debug\SingleLinkedListProject.exe
+C:\Users\travi\source\repos\SingleLinkedListProject\bin\Debug\SingleLinkedListProject.pdb
+C:\Users\travi\source\repos\SingleLinkedListProject\obj\Debug\SingleLinkedListProject.csproj.AssemblyReference.cache
+C:\Users\travi\source\repos\SingleLinkedListProject\obj\Debug\SingleLinkedListProject.csproj.CoreCompileInputs.cache
+C:\Users\travi\source\repos\SingleLinkedListProject\obj\Debug\SingleLinkedListProject.exe
+C:\Users\travi\source\repos\SingleLinkedListProject\obj\Debug\SingleLinkedListProject.pdb
