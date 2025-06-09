@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\travi\\source\\repos\\SingleLinkedListProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{06284428-E757-40F2-8987-C120A5ACDE8F}|SingleLinkedListProject.csproj|C:\\Users\\travi\\source\\repos\\SingleLinkedListProject\\singlelinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{06284428-E757-40F2-8987-C120A5ACDE8F}|SingleLinkedListProject.csproj|c:\\users\\travi\\source\\repos\\singlelinkedlistproject\\singlelinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06284428-E757-40F2-8987-C120A5ACDE8F}|SingleLinkedListProject.csproj|solutionrelative:singlelinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06284428-E757-40F2-8987-C120A5ACDE8F}|SingleLinkedListProject.csproj|c:\\users\\travi\\source\\repos\\singlelinkedlistproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{06284428-E757-40F2-8987-C120A5ACDE8F}|SingleLinkedListProject.csproj|C:\\Users\\travi\\source\\repos\\SingleLinkedListProject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06284428-E757-40F2-8987-C120A5ACDE8F}|SingleLinkedListProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -56,7 +56,7 @@
               "RelativeDocumentMoniker": "SingleLinkedList.cs",
               "ToolTip": "C:\\Users\\travi\\source\\repos\\SingleLinkedListProject\\SingleLinkedList.cs",
               "RelativeToolTip": "SingleLinkedList.cs",
-              "ViewState": "AQIAAGYAAAAAAAAAAAAvwHsAAAAQAAAA",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAvwG8AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-05T17:53:29.407Z",
               "EditorCaption": ""
@@ -83,8 +83,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAABgAAAAAAAAAAAAAALkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T17:50:59.423Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T17:50:59.423Z"
             }
           ]
         },

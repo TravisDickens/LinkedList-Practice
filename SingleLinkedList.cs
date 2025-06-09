@@ -109,7 +109,7 @@ namespace SingleLinkedListProject
             p.link = temp;
         }
 
-        // Create a list by taking user input
+        
         public void CreateList()
         {
             Console.WriteLine("Enter the number of nodes ?");
